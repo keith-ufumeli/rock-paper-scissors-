@@ -1,0 +1,16 @@
+body{
+   padding: 0;
+   margin: 0;
+   background: aliceblue; 
+}
+
+.container{
+   width: 50%;
+   padding: 20px;
+   margin: 0 auto;
+}
+
+button{
+    text-transform: capitalize;
+    padding: 8px;
+}
